@@ -1,6 +1,6 @@
 ## 実行手順
 ### 1. htmlファイルをinputフォルダへ保存
-対象ページ：https://www.postgresql.org/docs/release/13.XX/
+対象ページ：https://www.postgresql.org/docs/release/XX.XX/
 
 ### 2. プロジェクトディレクトリに移動
 ```
